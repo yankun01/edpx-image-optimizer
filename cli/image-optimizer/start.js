@@ -8,19 +8,19 @@
  
  
 /**
- * foo.js ~ 2014/04/01 11:10:53
- * @author leeight(liyubei@baidu.com)
- * @version $Revision$ 
+ * start.js ~ 2014/04/30 11:10:53
+ * @author yankun(yankun01@baidu.com)
+ * @version 0.1.0 
  * @description 
- * edp seed foo command
+ * edp image-optimizer start 命令入口
  **/
 exports.cli = {
     description: 'jpegtran,optipng优化图片',
-    options: [ 'hello', 'world:' ],
+    options: [],
     main: function( args, opts ) {
         require('../../lib/img-opt').optimize(args, opts);
     }
-}
+};
 
 
 

@@ -1,8 +1,8 @@
-edpx-seed
+edpx-image-optimizer
 =========
 
-edp user command seed
+Minify images
 
-`cli`目录是对外提供的命令，无关紧要的文件建议不要放到这里。
+Usage:
+edp image-optimizer start src/img
 
-`lib`目录是真正的实现逻辑

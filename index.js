@@ -9,8 +9,8 @@
  
 /**
  * index.js ~ 2014/04/01 11:14:24
- * @author leeight(liyubei@baidu.com)
- * @version $Revision$ 
+ * @author yankun(yankun01@baidu.com)
+ * @version 0.1.0 
  * @description 
  * empty file
  **/

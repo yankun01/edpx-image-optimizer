@@ -8,18 +8,18 @@
  
  
 /**
- * seed.js ~ 2014/04/01 11:12:59
- * @author leeight(liyubei@baidu.com)
- * @version $Revision$ 
+ * image-optimizer.js ~ 2014/04/30 11:12:59
+ * @author yankun(yankun01@baidu.com)
+ * @version 0.1.0 
  * @description 
- * edp seed
+ * edp image-optimizer
  **/
 exports.cli = {
-    description: 'edp seed command description',
+    description: 'edp image-optimizer minifies images for web.',
     main: function( args, opts ) {
-        console.log( 'See edp seed --help' );
+        console.log( 'See image-optimizer --help' );
     }
-}
+};
 
 
 
