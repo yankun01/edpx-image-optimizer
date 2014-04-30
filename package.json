@@ -1,0 +1,25 @@
+{
+  "name": "edpx-image-optimizer",
+  "version": "0.0.1",
+  "description": "Optimize images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecomfe/edpx-image-optimizer.git"
+  },
+  "dependencies": {
+    "image-min": "~0.4.5"
+  },
+  "keywords": [
+    "edp, image optimize"
+  ],
+  "author": "yankun01@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edpx-image-optimizer/issues"
+  },
+  "homepage": "https://github.com/ecomfe/edpx-image-optimizer"
+}
